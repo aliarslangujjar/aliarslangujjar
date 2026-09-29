@@ -1,5 +1,104 @@
-# 💫 About Me:
-# 👋 Hi, I'm Ali Arslan<br><br>### Software Developer | QA Engineer | Test Automation<br><br>I'm a software developer and QA engineer with experience in **web development, software testing, automation, and application quality**.<br><br>My background combines development and quality engineering, allowing me to understand software from both sides — **building applications and making sure they are reliable, maintainable, and production-ready.**<br><br>---<br><br>## 🛠️ Technologies & Skills<br><br>### 💻 Development<br><br>* PHP<br>* Java<br>* HTML & CSS<br>* MySQL<br>* PostgreSQL<br>* REST APIs<br>* MVC Architecture<br><br>### 🧪 QA & Automation<br><br>* Selenium<br>* Cypress<br>* API Testing<br>* JMeter<br>* Test Automation<br>* Functional & Regression Testing<br>* CI/CD<br><br>### ☁️ Other Areas<br><br>* SaaS Application Development<br>* Database Design<br>* Git & GitHub<br>* Cloud Deployment<br>* Software Architecture<br>* AI-Assisted Development<br><br>---<br><br>## 🚀 What I'm Working On<br><br>I'm currently building and experimenting with **SaaS and enterprise software projects**, including:<br><br>* 🏥 Healthcare / Hospital Information Systems & EMR<br>* 💰 Personal Finance & Budget Management SaaS<br>* 🧪 QA Automation and testing projects<br>* 🌐 Full-stack web applications<br>* 🔌 APIs and third-party integrations<br><br>I enjoy taking an idea from **concept → architecture → development → testing → deployment**.<br><br>---<br><br>## 🎯 My Approach<br><br>I believe good software isn't just about writing code.<br><br>It's about building applications that are:<br><br>* ✅ Reliable<br>* 🔒 Secure<br>* 📈 Scalable<br>* 🧪 Well-tested<br>* 🛠️ Maintainable<br>* 🚀 Production-ready<br><br>My QA background helps me think beyond whether something simply "works" and focus on **how it behaves, how it can fail, and how it can be improved.**<br><br>---<br><br>## 📂 Featured Projects<br><br>More projects will be added as they reach stable development stages.<br><br>| Project                | Description                                     | Technologies              |<br>| ---------------------- | ----------------------------------------------- | ------------------------- |<br>| 🏥 Healthcare SaaS     | Hospital Information System & EMR platform      | Full-Stack / SaaS         |<br>| 💰 Budget SaaS         | Personal finance and budget management platform | PHP / PostgreSQL          |<br>| 🧪 Automation Projects | Automated testing and QA projects               | Java / Selenium / Cypress |<br><br>---<br><br>## 📫 Connect With Me<br><br>I'm always interested in software development, QA engineering, automation, SaaS architecture, and building useful technology.<br><br>**GitHub:** You're already here 😄<br><br>---<br><br>### ⚡ Fun Fact<br><br>I like building software almost as much as I like finding the bugs hiding inside it. 🐛🔍<br><br>---<br><br>⭐ Feel free to explore my repositories and projects.<br>
+# 👋 Hi, I'm Ali Arslan
+
+### Software Developer | QA Engineer | Test Automation
+
+I'm a software developer and QA engineer with experience in **web development, software testing, automation, and application quality**.
+
+My background combines development and quality engineering, allowing me to understand software from both sides — **building applications and making sure they are reliable, maintainable, and production-ready.**
+
+---
+
+## 🛠️ Technologies & Skills
+
+### 💻 Development
+
+* PHP
+* Java
+* HTML & CSS
+* MySQL
+* PostgreSQL
+* REST APIs
+* MVC Architecture
+
+### 🧪 QA & Automation
+
+* Selenium
+* Cypress
+* API Testing
+* JMeter
+* Test Automation
+* Functional & Regression Testing
+* CI/CD
+
+### ☁️ Other Areas
+
+* SaaS Application Development
+* Database Design
+* Git & GitHub
+* Cloud Deployment
+* Software Architecture
+* AI-Assisted Development
+
+---
+
+## 🚀 What I'm Working On
+
+I'm currently building and experimenting with **SaaS and enterprise software projects**, including:
+
+* 🏥 Healthcare / Hospital Information Systems & EMR
+* 💰 Personal Finance & Budget Management SaaS
+* 🧪 QA Automation and testing projects
+* 🌐 Full-stack web applications
+* 🔌 APIs and third-party integrations
+
+I enjoy taking an idea from **concept → architecture → development → testing → deployment**.
+
+---
+
+## 🎯 My Approach
+
+I believe good software isn't just about writing code.
+
+It's about building applications that are:
+
+* ✅ Reliable
+* 🔒 Secure
+* 📈 Scalable
+* 🧪 Well-tested
+* 🛠️ Maintainable
+* 🚀 Production-ready
+
+My QA background helps me think beyond whether something simply "works" and focus on **how it behaves, how it can fail, and how it can be improved.**
+
+---
+
+## 📂 Featured Projects
+
+More projects will be added as they reach stable development stages.
+
+| Project                | Description                                     | Technologies              |
+| ---------------------- | ----------------------------------------------- | ------------------------- |
+| 🏥 Healthcare SaaS     | Hospital Information System & EMR platform      | Full-Stack / SaaS         |
+| 💰 Budget SaaS         | Personal finance and budget management platform | PHP / PostgreSQL          |
+| 🧪 Automation Projects | Automated testing and QA projects               | Java / Selenium / Cypress |
+
+---
+
+## 📫 Connect With Me
+
+I'm always interested in software development, QA engineering, automation, SaaS architecture, and building useful technology.
+
+**GitHub:** You're already here 😄
+
+---
+
+### ⚡ Fun Fact
+
+I like building software almost as much as I like finding the bugs hiding inside it. 🐛🔍
+
+---
+
+⭐ Feel free to explore my repositories and projects.
 
 
 ## 🌐 Socials:
