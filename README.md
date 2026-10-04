@@ -6,7 +6,7 @@ I'm a software developer and QA engineer with experience in **web development, s
 
 My background combines development and quality engineering, allowing me to understand software from both sides — **building applications and making sure they are reliable, maintainable, and production-ready.**
 
-----
+---
 
 ## 🛠️ Technologies & Skills
 
@@ -39,7 +39,7 @@ My background combines development and quality engineering, allowing me to under
 * Software Architecture
 * AI-Assisted Development
 
-----
+---
 
 ## 🚀 What I'm Working On
 
@@ -53,7 +53,7 @@ I'm currently building and experimenting with **SaaS and enterprise software pro
 
 I enjoy taking an idea from **concept → architecture → development → testing → deployment**.
 
-----
+---
 
 ## 🎯 My Approach
 
@@ -70,7 +70,7 @@ It's about building applications that are:
 
 My QA background helps me think beyond whether something simply "works" and focus on **how it behaves, how it can fail, and how it can be improved.**
 
-----
+---
 
 ## 📂 Featured Projects
 
