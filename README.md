@@ -82,7 +82,7 @@ More projects will be added as they reach stable development stages.
 | 💰 Budget SaaS         | Personal finance and budget management platform | PHP / PostgreSQL          |
 | 🧪 Automation Projects | Automated testing and QA projects               | Java / Selenium / Cypress |
 
----
+----
 
 ## 📫 Connect With Me
 
@@ -90,13 +90,13 @@ I'm always interested in software development, QA engineering, automation, SaaS 
 
 **GitHub:** You're already here 😄
 
----
+----
 
 ### ⚡ Fun Fact
 
 I like building software almost as much as I like finding the bugs hiding inside it. 🐛🔍
 
----
+----
 
 ⭐ Feel free to explore my repositories and projects.
 
